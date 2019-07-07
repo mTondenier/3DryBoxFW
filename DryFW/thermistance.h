@@ -1,0 +1,2 @@
+float mesureTempHeat ();
+

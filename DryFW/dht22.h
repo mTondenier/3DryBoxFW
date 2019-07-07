@@ -1,0 +1,3 @@
+float mesureTemp();
+float mesureHumi();
+
